@@ -35,7 +35,7 @@ import InstagramLogin from "react-instagram-oauth";
       authCallback={authHandler}
       appId="293869846911444"
       appSecret="49df1544fe8c6be07afdb43036ba6ebe"
-      redirectUri=""
+      redirectUri="https://main--tourmaline-sunshine-1bee4d.netlify.app/"
     />
     </>
 
